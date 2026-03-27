@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class Main{
 
     // Reusing Bogie model (same as UC7 & UC8)
     static class Bogie {
