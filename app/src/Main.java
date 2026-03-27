@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Display Welcome Banner
-        System.out.println("=======================================");
+        System.out.println("====================     ===================");
         System.out.println("   === Train Consist     Management App ===");
         System.out.println("=======================================\n");
 
