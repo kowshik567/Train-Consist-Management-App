@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class UseCase8TrainConsistMgmt {
+public class Main {
 
     // Reusing Bogie model (same as UC7)
     static class Bogie {
